@@ -4,3 +4,6 @@ CLAUDE.md
 # Vendored reference copy of OpenTune (upstream repo, read-only reference)
 opentune-main/
 opentune-main.zip
+
+# Local working notes derived from copyrighted service data — never publish
+*.local.md

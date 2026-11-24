@@ -1,2 +1,6 @@
 # Local-only working notes, not part of the public repo
 CLAUDE.md
+
+# Vendored reference copy of OpenTune (upstream repo, read-only reference)
+opentune-main/
+opentune-main.zip
